@@ -1,0 +1,40 @@
+      "HEADER_PRIMARY": [
+        "#A020F0",
+        "#FFFFFF"
+      ]
+    },
+    "rawColors": {
+      "PRIMARY_600": "#000000",
+      "PRIMARY_500": "#0B0B0B",
+      "PRIMARY_630": "#000000",
+      "PRIMARY_800": "#000000",
+      "BRAND_260": "#A020F0",
+      "BRAND_360": "#A020F0",
+      "BRAND_500": "#A020F0",
+      "WHITE": "#FFFFFF",
+      "RED_260": "#FFFFFF",
+      "GREEN_600": "#FFFFFF",
+      "BRAND_300": "#FFFFFF",
+      "BRAND_330": "#FFFFFF",
+      "BRAND_345": "#FFFFFF",
+      "YELLOW_300": "#9F2B68",
+      "RED_345": "#A020F0",
+      "PRIMARY_400": "#A020F0"
+    },
+    "unsafe_colors": {
+      "CHAT_GREY": "#000000",
+      
+    
+    "color": "#A020F0"
+  },
+   
+    "background": {
+      "url": "https://i.redd.it/d596ve0ibhw21.jpg",
+      "blur": 1,
+      "alpha": 0.5
+  
+    },
+  
+    
+    "spec": 2
+  }
